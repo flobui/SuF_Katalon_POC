@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_SECTEURS DACTIVIT Obligatoire, slec_dca830</name>
+   <tag></tag>
+   <elementGuidId>77aeb6e0-47fc-4c56-82ad-e612f00ee006</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#taggroup5df124cf7889e9001115e59e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='taggroup5df124cf7889e9001115e59e']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tags-container compulsory-category ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>taggroup5df124cf7889e9001115e59e</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toc-title</name>
+      <type>Main</type>
+      <value>Secteurs d'activité</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SECTEURS D'ACTIVITÉ* Obligatoire, sélectionnez au moins un tag Agriculture  Aménagement du territoire  Cartographie  Concurrence  Cosmétique  Energie  legaltech  Maritime, pêche  Numérique  Santé  Software  tagsuggest  Transport aérien  Transport maritime  Transport routier  Télécommunications Concurrence (9)  Concurrence collaborative work  Concurrence Consulting  Concurrence events  Concurrence Idea management  Concurrence IP  Concurrence Portfolio management  Concurrence project management  Concurrence Scouting  Concurrence SRM  Suggérer un tag </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;taggroup5df124cf7889e9001115e59e&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//section[@id='taggroup5df124cf7889e9001115e59e']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggérer un tag'])[5]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[2]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sflow-tag-group[6]/section</value>
+   </webElementXpaths>
+</WebElementEntity>

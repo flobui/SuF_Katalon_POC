@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Obligatoire_textarea-form ng-untou_30690a</name>
+   <tag></tag>
+   <elementGuidId>f68b2172-bcbe-4ce5-8e4f-8490ff5e0a02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.textarea-form.ng-untouched.ng-dirty.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-3']/edit-scoring-modal/edit-modal/div[2]/app-scoring-summary-form/div[2]/sflow-dynamic-form/form/div/div/sflow-field-template/sflow-form-label/sflow-form-textarea/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea-form ng-untouched ng-dirty ng-valid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>10</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Renseignez une synthèse de votre évaluation...</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-3&quot;)/edit-scoring-modal[@class=&quot;ng-star-inserted&quot;]/edit-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dialog__content&quot;]/app-scoring-summary-form[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-6 ng-star-inserted&quot;]/sflow-dynamic-form[1]/form[@class=&quot;ng-untouched ng-dirty ng-valid&quot;]/div[1]/div[@class=&quot;field-container ng-star-inserted&quot;]/sflow-field-template[1]/sflow-form-label[@class=&quot;ng-star-inserted&quot;]/sflow-form-textarea[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dynamic-field&quot;]/textarea[@class=&quot;textarea-form ng-untouched ng-dirty ng-valid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-3']/edit-scoring-modal/edit-modal/div[2]/app-scoring-summary-form/div[2]/sflow-dynamic-form/form/div/div/sflow-field-template/sflow-form-label/sflow-form-textarea/div/textarea</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+   </webElementXpaths>
+</WebElementEntity>

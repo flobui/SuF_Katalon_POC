@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Ajoutez une nouvelle startup  votre c_65f7e5</name>
+   <tag></tag>
+   <elementGuidId>da677b1f-8aeb-40a1-a27e-9e900aef6f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-selector__input.full-width.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>itemName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-selector__input full-width ng-untouched ng-pristine ng-valid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Recherchez par nom de startup ou site web</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;with-chatbox-support-icon&quot;]/app-root[@class=&quot;ng-tns-c285-0&quot;]/div[@class=&quot;desktop__wrapper ng-tns-c285-0 ng-trigger ng-trigger-routeAnimations&quot;]/app-new-sflow-item[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;step-wrapper&quot;]/new-sflow-item-autocomplete-step[@class=&quot;ng-tns-c188-11 ng-trigger ng-trigger-fadeInOutAnimation ng-star-inserted&quot;]/div[@class=&quot;autocomplete-step__container ng-tns-c188-11 ng-star-inserted&quot;]/div[@class=&quot;col-md-10 offset-md-1 autocomplete-step__input-container ng-tns-c188-11 ng-star-inserted&quot;]/div[@class=&quot;col-md-10 offset-md-1 ng-tns-c188-11&quot;]/sflow-input-selector[@class=&quot;search-input ng-tns-c188-11 ng-star-inserted active&quot;]/div[@class=&quot;tag-input-wrapper relative flex no-shrink wrap&quot;]/form[@class=&quot;input-selector__form flex-display ng-untouched ng-pristine ng-valid&quot;]/input[@class=&quot;input-selector__input full-width ng-untouched ng-pristine ng-valid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+   </webElementXpaths>
+</WebElementEntity>

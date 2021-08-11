@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Description_textarea-form ng-untou_e40b14</name>
+   <tag></tag>
+   <elementGuidId>de7fd8bc-bf61-4442-b6db-122021f4361f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.textarea-form.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea-form ng-untouched ng-valid ng-dirty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Entrer une description plus longue et détaillée de E2etestsStartupflow (ne pas modifier svp)...</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;with-chatbox-support-icon&quot;]/app-root[@class=&quot;ng-tns-c285-0&quot;]/div[@class=&quot;desktop__wrapper ng-tns-c285-0 ng-trigger ng-trigger-routeAnimations&quot;]/app-startupflow-shell[@class=&quot;hidden_toolbar ng-star-inserted&quot;]/div[@class=&quot;shell__wrapper&quot;]/div[@class=&quot;main&quot;]/provider-layout[@class=&quot;ng-tns-c657-83 ng-star-inserted&quot;]/provider-content[@class=&quot;ng-tns-c657-83&quot;]/div[@class=&quot;inno-provider-wrapper&quot;]/provider-details[@class=&quot;ng-star-inserted&quot;]/sflow-card[@class=&quot;card-form-wrapper ng-star-inserted&quot;]/sflow-dynamic-form[@class=&quot;item-form&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[1]/div[@class=&quot;field-container ng-star-inserted&quot;]/sflow-field-template[1]/sflow-form-label[@class=&quot;ng-star-inserted&quot;]/sflow-form-textarea[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dynamic-field&quot;]/textarea[@class=&quot;textarea-form ng-untouched ng-valid ng-dirty&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+   </webElementXpaths>
+</WebElementEntity>

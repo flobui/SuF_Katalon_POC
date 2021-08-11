@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>aab5ec64-2ff2-4baf-a2b8-0113539ea328</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16,2l-4.55,9.22L1.28,12.69l7.36,7.18L6.9,30,16,25.22,25.1,30,23.36,19.87l7.36-7.17L20.55,11.22Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-3&quot;)/edit-scoring-modal[@class=&quot;ng-star-inserted&quot;]/edit-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dialog__content&quot;]/app-scoring-criteria-form[@class=&quot;ng-star-inserted&quot;]/sflow-dynamic-form[@class=&quot;scoring-form ng-star-inserted&quot;]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[1]/div[@class=&quot;field-container ng-star-inserted&quot;]/sflow-field-template[1]/sflow-form-label[@class=&quot;ng-star-inserted&quot;]/app-form-dynamic-form[@class=&quot;ng-star-inserted&quot;]/sflow-dynamic-form[1]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[1]/div[@class=&quot;field-container ng-star-inserted&quot;]/sflow-field-template[1]/app-form-rating[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dynamic-field form-select&quot;]/sflow-scoring[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;scoring__note__stars ng-star-inserted&quot;]/sflow-icon[@class=&quot;scoring__star active clickable ng-star-inserted&quot;]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>

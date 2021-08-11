@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Startups_ng-valid ng-touched ng-dirty</name>
+   <tag></tag>
+   <elementGuidId>ffc8e4fe-7bc8-4389-8c44-d6e665681904</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ng-valid.ng-touched.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Rechercher</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-valid ng-touched ng-dirty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;with-chatbox-support-icon&quot;]/app-root[@class=&quot;ng-tns-c285-0&quot;]/div[@class=&quot;desktop__wrapper ng-tns-c285-0 ng-trigger ng-trigger-routeAnimations&quot;]/app-startupflow-shell[@class=&quot;hidden_toolbar ng-star-inserted&quot;]/sflow-main-nav[@class=&quot;ng-star-inserted search__focused&quot;]/nav[@class=&quot;main__nav ng-star-inserted&quot;]/div[@class=&quot;container ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 search_bar offset-2&quot;]/app-top-bar-search[1]/sflow-search-input[1]/div[@class=&quot;input__search__wrapper&quot;]/input[@class=&quot;ng-valid ng-touched ng-dirty&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+   </webElementXpaths>
+</WebElementEntity>

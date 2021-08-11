@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Problmatique aborde_textarea-form _3cc502</name>
+   <tag></tag>
+   <elementGuidId>070ff4a6-6a5c-4ce5-b72a-5240899715cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.textarea-form.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/sflow-field-template/sflow-form-label/sflow-form-textarea/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textarea-form ng-untouched ng-valid ng-dirty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>test mastartupdetestauto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;with-chatbox-support-icon&quot;]/app-root[@class=&quot;ng-tns-c285-0&quot;]/div[@class=&quot;desktop__wrapper ng-tns-c285-0 ng-trigger ng-trigger-routeAnimations&quot;]/app-new-sflow-item[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;step-wrapper&quot;]/new-sflow-item-general-info-step[@class=&quot;ng-tns-c199-13 ng-trigger ng-trigger-slideInOutAnimation ng-star-inserted&quot;]/div[@class=&quot;row general-step with-fixed-footer ng-tns-c199-13 ng-star-inserted&quot;]/div[@class=&quot;col-md-8 offset-md-2 general-step__container ng-tns-c199-13&quot;]/sflow-dynamic-form[@class=&quot;item-form ng-tns-c199-13&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[1]/div[@class=&quot;field-container ng-star-inserted&quot;]/sflow-field-template[1]/sflow-form-label[@class=&quot;ng-star-inserted&quot;]/sflow-form-textarea[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dynamic-field&quot;]/textarea[@class=&quot;textarea-form ng-untouched ng-valid ng-dirty&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/sflow-field-template/sflow-form-label/sflow-form-textarea/div/textarea</value>
+   </webElementXpaths>
+</WebElementEntity>

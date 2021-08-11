@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_TYPE DE STRUCTURE Obligatoire, slec_bb81af</name>
+   <tag></tag>
+   <elementGuidId>e2601932-f727-469b-9eba-969177cbf760</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#taggroup5df12130b413de001022b961</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='taggroup5df12130b413de001022b961']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tags-container compulsory-category ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>taggroup5df12130b413de001022b961</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toc-title</name>
+      <type>Main</type>
+      <value>Type de structure</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TYPE DE STRUCTURE* Obligatoire, sélectionnez au moins un tag Agency  Association  Coopérative  Ecole  ETI  Grand groupe  Institut  laboratoire  PME  search accepted  Startup  suggestTag  test Maj tag  Think Thank eycoucou3 (9)  eycoucou3 azdla  eycoucou3 coucou &lt;3  eycoucou3 dlaskhdlkajsd  eycoucou3 fournisseur de masques  eycoucou3 maz  eycoucou3 sdfsdf  eycoucou3 squeleton  eycoucou3 squeleton2  eycoucou3 T E S T I   T E S T O  Suggérer un tag </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;taggroup5df12130b413de001022b961&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//section[@id='taggroup5df12130b413de001022b961']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggérer un tag'])[2]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New sub yooo'])[2]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sflow-tag-group[3]/section</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New sub yooo'])[1]/following::section[1]</value>
+   </webElementXpaths>
+</WebElementEntity>
