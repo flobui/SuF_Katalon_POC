@@ -17,3 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://staging.startupflow.io/')
+
+WebUI.setText(findTestObject('Object Repository/Page_Staging Test Startup Flow/input_Connexion  Startup Flow_ng-untouched _739b67'), 
+    'hfdhcgvjhgvchf')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Staging Test Startup Flow/input_Connexion  Startup Flow_ng-untouched _739b67_1'), 
+    'WLt2QHkFWSuwmbzakNdraA==')
+
+WebUI.closeBrowser()
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Staging Test Startup Flow/input_Connexion  Startup Flow_ng-untouched _739b67_1'), 
+    'WLt2QHkFWSuwmbzakNdraA==')
+
